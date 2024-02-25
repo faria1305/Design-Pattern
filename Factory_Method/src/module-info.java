@@ -1,0 +1,2 @@
+module Factory_Method {
+}
